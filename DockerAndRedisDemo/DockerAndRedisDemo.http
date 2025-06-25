@@ -1,0 +1,6 @@
+@DockerAndRedisDemo_HostAddress = http://localhost:5049
+
+GET {{DockerAndRedisDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
